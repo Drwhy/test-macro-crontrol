@@ -1,2 +1,0 @@
-# test-macro-crontrol
-test
